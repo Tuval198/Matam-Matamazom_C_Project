@@ -1,0 +1,8 @@
+Best Selling Product:
+name: Smart TV, id: 11, total income: 10000.000
+Best Selling Product:
+name: Television, id: 10, total income: 6000.000
+Best Selling Product:
+name: Onion, id: 6, total income: 58.000
+Best Selling Product:
+none

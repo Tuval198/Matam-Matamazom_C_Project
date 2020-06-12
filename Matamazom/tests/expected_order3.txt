@@ -1,0 +1,5 @@
+Order 3 Details:
+name: Tomato, id: 4, amount: 2.500, price: 22.250
+name: Smart TV, id: 11, amount: 10.000, price: 50000.000
+----------
+Total Price: 50022.250
